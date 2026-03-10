@@ -1,0 +1,964 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Lattice Surgery for Dummies",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          161.068359375,
+          52.98046875
+        ],
+        [
+          449.8209533691406,
+          52.98046875
+        ],
+        [
+          449.8209533691406,
+          77.00897216796875
+        ],
+        [
+          161.068359375,
+          77.00897216796875
+        ]
+      ]
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          133.27734375,
+          444.33984375
+        ],
+        [
+          213.37185668945312,
+          444.33984375
+        ],
+        [
+          213.37185668945312,
+          455.1000671386719
+        ],
+        [
+          133.27734375,
+          455.1000671386719
+        ]
+      ]
+    },
+    {
+      "title": "A. Motivation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.513671875,
+          681.01171875
+        ],
+        [
+          106.24898529052734,
+          679.46484375
+        ],
+        [
+          106.24898529052734,
+          691.6655426025391
+        ],
+        [
+          47.513671875,
+          691.6655426025391
+        ]
+      ]
+    },
+    {
+      "title": "B. Contribution",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.482421875,
+          416.8828125
+        ],
+        [
+          376.8245849609375,
+          416.8828125
+        ],
+        [
+          376.8245849609375,
+          428.0024719238281
+        ],
+        [
+          310.482421875,
+          428.0024719238281
+        ]
+      ]
+    },
+    {
+      "title": "C. Paper Structure",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.677734375,
+          681.01171875
+        ],
+        [
+          389.845703125,
+          681.01171875
+        ],
+        [
+          389.845703125,
+          691.0164184570312
+        ],
+        [
+          311.677734375,
+          691.0164184570312
+        ]
+      ]
+    },
+    {
+      "title": "II. THEORETICAL BACKGROUND",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.9921875,
+          128.390625
+        ],
+        [
+          244.82962036132812,
+          128.390625
+        ],
+        [
+          244.82962036132812,
+          139.20306396484375
+        ],
+        [
+          102.796875,
+          139.20306396484375
+        ]
+      ]
+    },
+    {
+      "title": "A. A Brief Overview of QECCs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.513671875,
+          143.859375
+        ],
+        [
+          178.70693969726562,
+          142.3125
+        ],
+        [
+          178.70693969726562,
+          154.02459716796875
+        ],
+        [
+          46.318359375,
+          154.02459716796875
+        ]
+      ]
+    },
+    {
+      "title": "B. Surface Codes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.287109375,
+          225.84375
+        ],
+        [
+          384.3662414550781,
+          225.84375
+        ],
+        [
+          384.3662414550781,
+          236.42352294921875
+        ],
+        [
+          309.287109375,
+          236.42352294921875
+        ]
+      ]
+    },
+    {
+      "title": "C. Transversal Gates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.482421875,
+          343.849853515625
+        ],
+        [
+          399.6289367675781,
+          342.6328125
+        ],
+        [
+          399.6289367675781,
+          353.81243896484375
+        ],
+        [
+          310.482421875,
+          353.81243896484375
+        ]
+      ]
+    },
+    {
+      "title": "III. LATTICE SURGERY",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          123.1171875,
+          510.08203125
+        ],
+        [
+          224.71875,
+          510.08203125
+        ],
+        [
+          224.31578063964844,
+          521.5248107910156
+        ],
+        [
+          121.921875,
+          521.5248107910156
+        ]
+      ]
+    },
+    {
+      "title": "A. Pivotal Idea",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.21484375,
+          525.1640625
+        ],
+        [
+          112.4955062866211,
+          525.1640625
+        ],
+        [
+          112.4955062866211,
+          536.3253326416016
+        ],
+        [
+          46.01953125,
+          536.3253326416016
+        ]
+      ]
+    },
+    {
+      "title": "B. Lattice Merging",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.78125,
+          446.2734375
+        ],
+        [
+          390.64263916015625,
+          446.2734375
+        ],
+        [
+          390.64263916015625,
+          457.78643798828125
+        ],
+        [
+          310.78125,
+          457.78643798828125
+        ]
+      ]
+    },
+    {
+      "title": "C. Lattice Splitting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.708984375,
+          290.42578125
+        ],
+        [
+          128.01722717285156,
+          290.42578125
+        ],
+        [
+          128.01722717285156,
+          301.474609375
+        ],
+        [
+          47.513671875,
+          301.474609375
+        ]
+      ]
+    },
+    {
+      "title": "IV. OPERATIONS WITH LATTICE SURGERY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          83.88400268554688,
+          479.14453125
+        ],
+        [
+          265.1048278808594,
+          479.14453125
+        ],
+        [
+          265.1048278808594,
+          490.75592041015625
+        ],
+        [
+          82.775390625,
+          490.75592041015625
+        ]
+      ]
+    },
+    {
+      "title": "A. The CNOT Gate",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.6171875,
+          548.3671875
+        ],
+        [
+          129.4319305419922,
+          548.3671875
+        ],
+        [
+          129.4319305419922,
+          560.1324157714844
+        ],
+        [
+          46.6171875,
+          560.1324157714844
+        ]
+      ]
+    },
+    {
+      "title": "B. The Hadamard Gate",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          309.5859375,
+          596.70703125
+        ],
+        [
+          409.62139892578125,
+          596.70703125
+        ],
+        [
+          409.62139892578125,
+          607.387451171875
+        ],
+        [
+          309.5859375,
+          607.387451171875
+        ]
+      ]
+    },
+    {
+      "title": "C. Arbitrary Qubit Rotation Gates",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.0,
+          608.25
+        ],
+        [
+          192.0,
+          607.1484375
+        ],
+        [
+          192.0,
+          618.0
+        ],
+        [
+          47.8125,
+          618.0
+        ]
+      ]
+    },
+    {
+      "title": "V. APPLICATION OF QECC ON MULTI-QUBIT CIRCUITS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          57.076171875,
+          344.1796875
+        ],
+        [
+          291.955078125,
+          342.6328125
+        ],
+        [
+          291.7681884765625,
+          354.3050231933594
+        ],
+        [
+          55.880859375,
+          354.3050231933594
+        ]
+      ]
+    },
+    {
+      "title": "A. Moving Towards Fault-Tolerant Quantum Computing",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.111328125,
+          358.875
+        ],
+        [
+          279.404296875,
+          357.328125
+        ],
+        [
+          279.1796569824219,
+          369.0935363769531
+        ],
+        [
+          46.916015625,
+          369.0935363769531
+        ]
+      ]
+    },
+    {
+      "title": "B. Simplification of the Circuit",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          310.482421875,
+          418.4296875
+        ],
+        [
+          439.1405944824219,
+          416.8828125
+        ],
+        [
+          439.1405944824219,
+          428.5575866699219
+        ],
+        [
+          310.482421875,
+          428.5575866699219
+        ]
+      ]
+    },
+    {
+      "title": "VI. CONCLUSION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          134.771484375,
+          597.3444366455078
+        ],
+        [
+          212.7974853515625,
+          595.93359375
+        ],
+        [
+          212.7974853515625,
+          607.3070373535156
+        ],
+        [
+          134.771484375,
+          607.3070373535156
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENT",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          393.2578125,
+          120.74542236328125
+        ],
+        [
+          480.95849609375,
+          119.49609375
+        ],
+        [
+          480.95849609375,
+          130.7080078125
+        ],
+        [
+          393.2578125,
+          130.7080078125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          408.498046875,
+          194.90625
+        ],
+        [
+          465.4124450683594,
+          193.359375
+        ],
+        [
+          465.4124450683594,
+          205.27703857421875
+        ],
+        [
+          408.498046875,
+          205.27703857421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          298
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          343
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          90
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          436
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          495
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Reference",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          283
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2404.13202v2"
+}

@@ -1,0 +1,783 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Exact mapping of a spin glass with correlated disorder to the pure Ising model",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.810546875,
+          52.693603515625
+        ],
+        [
+          540.5968627929688,
+          51.8203125
+        ],
+        [
+          540.5968627929688,
+          64.6488037109375
+        ],
+        [
+          73.810546875,
+          64.6488037109375
+        ]
+      ]
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          122.818359375,
+          330.1294860839844
+        ],
+        [
+          228.7008819580078,
+          329.09765625
+        ],
+        [
+          228.7008819580078,
+          339.09588623046875
+        ],
+        [
+          121.623046875,
+          339.09588623046875
+        ]
+      ]
+    },
+    {
+      "title": "II. PROBABILITY DISTRIBUTION OF\nCORRELATED DISORDER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.90234375,
+          254.4609375
+        ],
+        [
+          276.3891296386719,
+          252.9140625
+        ],
+        [
+          276.3891296386719,
+          275.16656494140625
+        ],
+        [
+          75.90234375,
+          275.16656494140625
+        ]
+      ]
+    },
+    {
+      "title": "A. Probability distribution",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          110.267578125,
+          564.99609375
+        ],
+        [
+          242.32852172851562,
+          563.44921875
+        ],
+        [
+          242.32852172851562,
+          574.4366149902344
+        ],
+        [
+          110.267578125,
+          574.4366149902344
+        ]
+      ]
+    },
+    {
+      "title": "B. (1+\\epsilon)-replica theory",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          116.841796875,
+          54.75
+        ],
+        [
+          234.0,
+          53.3671875
+        ],
+        [
+          234.0,
+          63.75
+        ],
+        [
+          116.841796875,
+          64.1953125
+        ]
+      ]
+    },
+    {
+      "title": "C. Properties of correlated disorder",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.349609375,
+          588.75
+        ],
+        [
+          262.5,
+          588.19921875
+        ],
+        [
+          262.5,
+          597.75
+        ],
+        [
+          89.349609375,
+          598.25390625
+        ]
+      ]
+    },
+    {
+      "title": "III. ENERGY AND SPECIFIC HEAT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          81.87890625,
+          195.75
+        ],
+        [
+          269.54296875,
+          194.90625
+        ],
+        [
+          269.25,
+          204.0
+        ],
+        [
+          80.68359375,
+          204.1875
+        ]
+      ]
+    },
+    {
+      "title": "A. Energy",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          147.919921875,
+          319.4296875
+        ],
+        [
+          202.5,
+          319.4296875
+        ],
+        [
+          202.5,
+          328.7109375
+        ],
+        [
+          147.919921875,
+          328.7109375
+        ]
+      ]
+    },
+    {
+      "title": "B. Specific heat",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          398.63671875,
+          150.75
+        ],
+        [
+          479.25,
+          149.2734375
+        ],
+        [
+          479.25,
+          159.0
+        ],
+        [
+          398.63671875,
+          160.1015625
+        ]
+      ]
+    },
+    {
+      "title": "IV. GAUGE NON-INVARIANT QUANTITIES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.0,
+          260.25
+        ],
+        [
+          291.75,
+          259.875
+        ],
+        [
+          291.75,
+          269.25
+        ],
+        [
+          60.0,
+          270.703125
+        ]
+      ]
+    },
+    {
+      "title": "A. Reduction to the pure Ising model on the NL",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.466796875,
+          393.75
+        ],
+        [
+          294.0,
+          392.51953125
+        ],
+        [
+          294.0,
+          402.0
+        ],
+        [
+          58.271484375,
+          402.57421875
+        ]
+      ]
+    },
+    {
+      "title": "B. Magnetization and its distribution",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          86.0625,
+          609.75
+        ],
+        [
+          267.75,
+          608.30859375
+        ],
+        [
+          267.75,
+          618.75
+        ],
+        [
+          84.8671875,
+          618.75
+        ]
+      ]
+    },
+    {
+      "title": "C. Correlation function and critical exponents on the {\\rm NL}",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          320.642578125,
+          596.25
+        ],
+        [
+          558.75,
+          594.7734375
+        ],
+        [
+          558.75,
+          615.0
+        ],
+        [
+          320.642578125,
+          615.0
+        ]
+      ]
+    },
+    {
+      "title": "D. An inequality and the location of the NL\nintersection",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.21098327636719,
+          295.06640625
+        ],
+        [
+          282.7236328125,
+          295.06640625
+        ],
+        [
+          282.7236328125,
+          315.2726135253906
+        ],
+        [
+          69.328125,
+          315.2726135253906
+        ]
+      ]
+    },
+    {
+      "title": "V. GAUSSIAN DISTRIBUTION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          95.326171875,
+          615.26953125
+        ],
+        [
+          257.4670104980469,
+          615.26953125
+        ],
+        [
+          257.4670104980469,
+          626.3156280517578
+        ],
+        [
+          94.130859375,
+          626.3156280517578
+        ]
+      ]
+    },
+    {
+      "title": "VI. SUMMARY AND DISCUSSION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          346.939453125,
+          554.94140625
+        ],
+        [
+          529.5282592773438,
+          554.94140625
+        ],
+        [
+          529.5282592773438,
+          566.1957550048828
+        ],
+        [
+          346.939453125,
+          566.1957550048828
+        ]
+      ]
+    },
+    {
+      "title": "DATA AVAILABILITY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          382.5,
+          442.01953125
+        ],
+        [
+          494.6268615722656,
+          440.47265625
+        ],
+        [
+          494.6268615722656,
+          452.18310546875
+        ],
+        [
+          382.5,
+          452.18310546875
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          409.693359375,
+          505.828125
+        ],
+        [
+          468.861328125,
+          505.828125
+        ],
+        [
+          468.861328125,
+          516.62109375
+        ],
+        [
+          409.693359375,
+          516.62109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          715
+        ],
+        [
+          "Line",
+          147
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          103
+        ],
+        [
+          "Span",
+          92
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Equation",
+          7
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          642
+        ],
+        [
+          "Line",
+          167
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "Equation",
+          9
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          323
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          912
+        ],
+        [
+          "Line",
+          206
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          352
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Reference",
+          18
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2602.22657v1"
+}
