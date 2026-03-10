@@ -1,0 +1,585 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Antialtermagnetic Magnons and Nonrelativistic Thermal Edelstein Effect",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          119.8984375,
+          53.0361328125
+        ],
+        [
+          496.1662468513854,
+          53.0361328125
+        ],
+        [
+          496.1662468513854,
+          63.731077471059656
+        ],
+        [
+          119.8984375,
+          63.731077471059656
+        ]
+      ]
+    },
+    {
+      "title": "END MATTER",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          144.92578125,
+          648.5574354407836
+        ],
+        [
+          206.42317380352642,
+          648.5574354407836
+        ],
+        [
+          206.42317380352642,
+          659.0458984375
+        ],
+        [
+          144.92578125,
+          659.0458984375
+        ]
+      ]
+    },
+    {
+      "title": "Holstein-Primakoff transformation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          107.384765625,
+          673.0244140625
+        ],
+        [
+          244.70528967254407,
+          673.0244140625
+        ],
+        [
+          244.70528967254407,
+          683.047195013357
+        ],
+        [
+          107.384765625,
+          683.047195013357
+        ]
+      ]
+    },
+    {
+      "title": "Bogoliubov transformation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          123.85390428211586,
+          53.983971504897596
+        ],
+        [
+          228.19143576826195,
+          53.983971504897596
+        ],
+        [
+          228.19143576826195,
+          63.314453125
+        ],
+        [
+          123.85390428211586,
+          63.314453125
+        ]
+      ]
+    },
+    {
+      "title": "Bilinear interactions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          135.8639798488665,
+          334.40071237756007
+        ],
+        [
+          216.18136020151132,
+          334.40071237756007
+        ],
+        [
+          216.18136020151132,
+          342.64826357969724
+        ],
+        [
+          135.8639798488665,
+          342.64826357969724
+        ]
+      ]
+    },
+    {
+      "title": "Biquadratic interactions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          128.35768261964733,
+          635.8112199465717
+        ],
+        [
+          224.43828715365237,
+          635.8112199465717
+        ],
+        [
+          224.43828715365237,
+          645.8896484375
+        ],
+        [
+          128.35768261964733,
+          645.8896484375
+        ]
+      ]
+    },
+    {
+      "title": "Magnon spin polarization",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          388.8261964735516,
+          329.1522707034728
+        ],
+        [
+          489.41057934508814,
+          329.1522707034728
+        ],
+        [
+          489.41057934508814,
+          338.8993766696349
+        ],
+        [
+          388.8261964735516,
+          338.8993766696349
+        ]
+      ]
+    },
+    {
+      "title": "Linear thermal Edelstein effect",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          379.06801007556675,
+          528.3056640625
+        ],
+        [
+          499.91939546599497,
+          528.3056640625
+        ],
+        [
+          499.91939546599497,
+          537.3505859375
+        ],
+        [
+          379.06801007556675,
+          537.3505859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          95
+        ],
+        [
+          "Span",
+          73
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          94
+        ],
+        [
+          "Span",
+          87
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          201
+        ],
+        [
+          "Span",
+          84
+        ],
+        [
+          "ListItem",
+          33
+        ],
+        [
+          "Reference",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          590
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          41
+        ],
+        [
+          "Reference",
+          25
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          151
+        ],
+        [
+          "Span",
+          106
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Reference",
+          16
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          97
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "Equation",
+          20
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/oddparityMagnon"
+}
